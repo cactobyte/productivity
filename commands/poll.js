@@ -1,5 +1,8 @@
 const Discord = require("discord.js");
 
+//Framework: incomplete
+//Polish:
+
 module.exports = {
     name: "poll",
     //aliases: ["rm"],

@@ -1,7 +1,10 @@
 const Discord = require("discord.js")
 const ms = require(`ms`);
 //⏰
+// Framework: Done
+// Polish: /? 
 
+// Rework: (Store Reminder in DB)
 
 const color = "34ebeb"
 module.exports={
@@ -42,4 +45,3 @@ module.exports={
 
 };
 
-//embed
