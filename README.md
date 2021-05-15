@@ -7,6 +7,7 @@ E, forked from cactobyte
 - remind (rework?)
 - calc (polish needed)
 - Urban Dictionary (~~Polish needed~~)
+- Pastebin (API KEY, POLISH)
 
 
 **NON PRODUCTIVE:** Random Fact, Meme, Image, Website
