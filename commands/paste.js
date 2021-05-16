@@ -20,7 +20,7 @@ module.exports = {
 
         message.channel.send(paste)
         //PASTEBIN API KEY NEEDS CHANGING
-
+        //TEST?
     }
 }
 
